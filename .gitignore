@@ -1,0 +1,27 @@
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Build
+/bin/
+/target/
+/out/
+
+# IDE
+*.iml
+.idea/
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs y temporales
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Archivos de compilación
+*.class

@@ -1,0 +1,10 @@
+1;Cocacola;7266
+2;Redbull;6892
+3;Cocacola;5266
+4;Speedmax;4233
+5;Cocacola;7469
+6;Cocacola;4029
+7;Gatorade;1238
+8;Speedmax;9994
+9;Colombiana;1768
+10;Electrolit;1843
