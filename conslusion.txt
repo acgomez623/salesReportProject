@@ -1,0 +1,13 @@
+1. Lo aprendido durante el desarrollo del proyecto.
+
+Manejo de texto planos dentro de un desarrollo, su lectura, generación y validación de datos, normalmente se trabaja
+el ingreso de datos input o GUI.
+
+2. Posibles aplicaciones en su vida profesional de las destrezas y conocimientos adquiridos y 
+practicados durante el desarrollo del proyecto.
+
+Es normal ver desarrollos en donde se deben de generar archivos como salida de datos, lo que facilita a usuarios la compresión o lectura de la información a dar o al contrario, la carga de archivos para que un sistema pueda hacer la lectura de la información que contiene y procesar sus datos, conocer como se manejan nos das una experiencia más en el desarrollo de utilidades para proyectos orientados ya a la vida real.
+
+3. Las dificultades presentadas durante el desarrollo del proyecto
+
+El mapeo de los datos de los textos planos
