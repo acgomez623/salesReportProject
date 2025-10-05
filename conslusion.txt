@@ -1,6 +1,6 @@
 1. Lo aprendido durante el desarrollo del proyecto.
 
-Manejo de texto planos dentro de un desarrollo, su lectura, generación y validación de datos, normalmente se trabaja
+Manejo de archivos de texto planos dentro de un desarrollo, su lectura, generación y validación de datos, normalmente se trabaja
 el ingreso de datos input o GUI.
 
 2. Posibles aplicaciones en su vida profesional de las destrezas y conocimientos adquiridos y 
@@ -10,4 +10,4 @@ Es normal ver desarrollos en donde se deben de generar archivos como salida de d
 
 3. Las dificultades presentadas durante el desarrollo del proyecto
 
-El mapeo de los datos de los textos planos
+Al principio costó un poco entender el requirimiento del documento entregado, se tuvo que releer varias veces para lograr un refinamiento adecuado de que se esperaba que hiciera el proyecto y como poder dividir las tareas entre el equipo ya que no estabamos acostumbrados a realizar trabajos colaborativos.
